@@ -4,9 +4,9 @@ Zehn Fragen zu ASD-STE100 Issue 9 (2025-01-15), *Simplified Technical English*.
 Jede erwartete Antwort ist an einer konkreten Regel oder einem konkreten
 Wörterbucheintrag der Ausgabe festgemacht, nicht an allgemeinem Wissen über
 "technisches Englisch". Die Fundstellen sind Regelnummern aus Teil 1 und
-Stichwörter aus Teil 2 (Dictionary) der Ausgabe, die unter
-`folder/reference/ASD-STE100-Issue9.pdf` liegt. Diese Datei wird vor jedem der
-beiden Läufe committet; der Git-Verlauf ist der Beleg dafür.
+Stichwörter aus Teil 2 (Dictionary) der Ausgabe, die frei auf asd-ste100.org
+abrufbar ist. Die Auszüge im Ordner werden vor jedem der beiden Läufe
+committet; der Git-Verlauf ist der Beleg dafür.
 
 ---
 

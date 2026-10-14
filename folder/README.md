@@ -12,19 +12,19 @@ Technical English) prüft und umschreibt.
   Regelnummer, damit eine Antwort zitierbar bleibt statt geraten zu sein.
 - `examples.md` — Wörterbucheinträge und Beispielsätze aus Teil 2, die
   zeigen, wie eine Regel in der Praxis aussieht.
-- `reference/ASD-STE100-Issue9.pdf` — das vollständige Referenzdokument,
-  Quelle unten.
 
 ## Quelle
 
 ASD-STE100, Issue 9, 2025-01-15, *Simplified Technical English*. Offizielle
 freie Ausgabe, Herausgeber ASD (AeroSpace and Defence Industries Association
-of Europe). Mirror-PDF abgerufen am 2026-10-11.
+of Europe). Die vollständige Ausgabe ist frei auf asd-ste100.org abrufbar.
+Das Referenzdokument lag zum Zeitpunkt der Läufe ebenfalls im Ordner; es
+wird nicht mit diesem Repo veröffentlicht.
 
 ## Wie benutzt ein Modell diesen Ordner?
 
 Vor der eigentlichen Frage werden `identity.md`, `rules.md` und
-`examples.md` als Kontext gegeben. Das Referenzdokument liegt bereit, falls
-tiefer nachgeschlagen werden muss. Die Fragen selbst stehen in
-`../questions.md`, ausserhalb des Ordners: der Ordner bereitet vor, er
-enthält nicht die Prüfung.
+`examples.md` als Kontext gegeben; die vollständige Ausgabe steht auf
+asd-ste100.org, falls tiefer nachgeschlagen werden muss. Die Fragen selbst
+stehen in `../questions.md`, ausserhalb des Ordners: der Ordner bereitet vor,
+er enthält nicht die Prüfung.

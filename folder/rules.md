@@ -1,7 +1,7 @@
 # Regeln (Auszug, Teil 1 – Writing rules, ASD-STE100 Issue 9)
 
 Nur die Regeln, die für die zehn Testfragen gebraucht werden. Vollständiger
-Text in `reference/ASD-STE100-Issue9.pdf`.
+Text in der offiziellen Ausgabe auf asd-ste100.org.
 
 ## Section 1 – Words
 
